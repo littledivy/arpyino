@@ -8,7 +8,7 @@ setup(
   author = 'Divy Srivastava',
   author_email = 'dj.srivastava23@gmail.com',
   url = 'https://github.com/divy-work/arpyino',
-  download_url = 'https://github.com/user/reponame/archive/v_01.tar.gz',
+  download_url = 'https://github.com/divy-work/arpyino/archive/v_01.tar.gz',
   keywords = ['serial', 'arduino', 'serial-port', 'arduino-read', 'communicate-with-arduino'],
   install_requires=[
           'pyserial'
