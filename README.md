@@ -7,7 +7,7 @@
 
 `pip install arpyino`
 
-Arpyino is a really tiny but saves your time. It basically reads the serial port of your Arduino board.
+Arpyino is really tiny but saves your time. It basically reads the serial port of your Arduino board.
 
 # Usage
 
@@ -20,7 +20,7 @@ while (1 == 1):
 ```
 
 ## Configuring components
-This is can be useful when you have more than one moudules connected to your Arduino board.
+This is can be useful when you have more than one modules connected to your Arduino board.
 ```python
 import arpyino
 ard = arpyino.Arduino('/dev/ttyACM0', 9600)
